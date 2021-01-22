@@ -1,9 +1,9 @@
 ### Hi there, I'm Ansar -  [Ansar][website] 👋
 
 ## I'm a 💖💖 JavaScript Lover 💖💖!
-- 🔭 I’m currently learning from [Programming Hero][programming]!
-- 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Learn React,React Native, Node
+- 🔭 I’m currently working at [NetArt][programming]!
+- 🌱 I’m currently learning Web Development.
+- 🥅 2021 Goals: Learn React,React Native, Node.js,Next.js, Gatsby
 - ⚡ Fun fact: I love to see movie, play cricket and listening Songs.  
 
 ### Connect with me:
@@ -35,7 +35,7 @@
 <br />
 <br />
 
-[programming]: https://www.programming-hero.com/
+[programming]: https://netart.io/
 [website]: https://ansar-ali.netlify.app/
 [twitter]: https://ansar-ali.netlify.app/
 [youtube]:  https://ansar-ali.netlify.app/
