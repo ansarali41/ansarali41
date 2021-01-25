@@ -1,7 +1,7 @@
 ### Hi there, I'm Ansar -  [Ansar][website] 👋
 
 ## I'm a 💖💖 JavaScript Lover 💖💖!
-- 🔭 I’m currently working at [NetArt][programming]!
+- 🔭 I’m currently working on my own projcet
 - 🌱 I’m currently learning Web Development.
 - 🥅 2021 Goals: Learn React,React Native, Node.js,Next.js, Gatsby
 - ⚡ Fun fact: I love to see movie, play cricket and listening Songs.  
