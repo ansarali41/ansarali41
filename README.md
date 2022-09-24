@@ -1,4 +1,4 @@
-### Hi there, I'm Ansar -  [Ansar][website] 👋
+### Hi there, I'm [Ansar][website] 👋
 
 ## I'm a 💖💖 JavaScript Lover 💖💖!
 - 🔭 I’m currently working on my own projcet
