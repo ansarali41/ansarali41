@@ -1,9 +1,9 @@
 ### Hi there, I'm [Ansar][website] 👋
 
 ## I'm a 💖💖 JavaScript Lover 💖💖!
-- 🔭 I’m currently working at Soft BD Ltd.
+- 🔭 I’m currently working at Amharc Tech Ltd.
 - 🌱 I’m currently learning Web Development.
-- 🥅 2022 Goals: Learn React,React Native, Node.js,Next.js, Gatsby, Nest js,Mysql
+- 🥅 skill : React js, Next.js, Node.js, Express js, Nest js, Mysql, Sequelize, TypeORM
 - ⚡ Fun fact: I love to see movie, play cricket and listening Songs.  
 
 ### Connect with me:
