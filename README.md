@@ -3,8 +3,8 @@
 ## I'm a 💖💖 JavaScript Lover 💖💖!
 - 🔭 I’m currently working at Amharc Tech Ltd.
 - 🌱 I’m currently learning Web Development.
-- 🥅 skill : React js, Next.js, Node.js, Express js, Nest js, Mysql, Sequelize, TypeORM
-- ⚡ Fun fact: I love to see movie, play cricket and listening Songs.  
+- 🥅 Skill: React js, Next.js, Node.js, Express js, Nest js, Mysql, Sequelize, TypeORM
+- ⚡ Fun fact: I enjoy watching movies, playing cricket, and listening to songs.  
 
 ### Connect with me:
 
@@ -35,9 +35,9 @@
 <br />
 <br />
 
-[programming]: https://netart.io/
+[Programming]: https://netart.io/
 [website]: https://ansar-ali.netlify.app/
-[twitter]: https://ansar-ali.netlify.app/
+[Twitter]: https://ansar-ali.netlify.app/
 [youtube]:  https://ansar-ali.netlify.app/
 [instagram]: https://www.instagram.com/im__ansar/?hl=en
 [linkedin]: https://www.linkedin.com/in/ansar14/
