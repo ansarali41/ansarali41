@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at Amharc Tech Ltd.
 - 🌱 I’m currently learning Web Development.
-- 🥅 Skill: React js, Next.js, Node.js, Express js, Nest js, Mysql, Sequelize, TypeORM
+- 🥅 Skill: Node.js, Express js, Nest js, Mysql, MongoDB, Mongoose, Sequelize, TypeORM, React js, Next.js, 
 - ⚡ Fun fact: I enjoy watching movies, playing cricket, and listening to songs.
 
 ### Connect with me:
