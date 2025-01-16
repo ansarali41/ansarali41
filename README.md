@@ -8,7 +8,7 @@ I'm a passionate **Software Engineer** specializing in building scalable, reliab
 
 ## 🚀 About Me
 - 💼 Currently working as a **Software Engineer (Back-End)** at [Amharc Tech Ltd](https://amharctech.com)
-- 🛠️ Skilled in **Nest.js**, **Node.js**, **React.js**, **TypeScript**, **MySQL**, and **MongoDB**
+- 🛠️ Skilled in **Nest.js**, **Node.js**, **React.js**, **TypeScript**, **MySQL**, **TypeORM**, **Prisma**, **MongoDB**,and **Mongoose**
 - 🌟 Enthusiastic about **microservices architecture**, **real-time systems**, and performance optimization
 - 📚 Always learning new technologies like **Kafka**, **Redis**, and **Socket.IO**
 
