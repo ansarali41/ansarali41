@@ -8,7 +8,7 @@ I'm a passionate **Software Engineer** specializing in building scalable, reliab
 
 ## 🚀 About Me
 - 💼 Currently working as a **Software Engineer (Back-End)** at [Gain Solutions Ltd.](https://www.gainhq.com/)
-- 🛠️ Skilled in **Nest.js**, **Node.js**, **React.js**, **TypeScript**, **AWS**,**CI/CD**, **MySQL**, **TypeORM**, **Prisma**, **MongoDB**,and **Mongoose**
+- 🛠️ Skilled in **Nest.js**, **Node.js**, **React.js**, **TypeScript**, **AWS**, **CI/CD**, **MySQL**, **TypeORM**, **Prisma**, **MongoDB**,and **Mongoose**
 - 🌟 Enthusiastic about **microservices architecture**, **real-time systems**, and performance optimization
 - 📚 Always learning new technologies like **Kafka**, **Redis**, and **Socket.IO**
 
