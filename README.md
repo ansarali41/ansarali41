@@ -7,7 +7,7 @@
 I'm a passionate **Software Engineer** specializing in building scalable, reliable, and efficient applications. With expertise in **back-end development** and a strong command over modern frameworks and databases, I love tackling challenging problems and delivering impactful solutions.
 
 ## 🚀 About Me
-- 💼 Currently working as a **Software Engineer (Back-End)** at [Gain Solutions Ltd.](https://www.gainhq.com/)
+- 💼 Currently working as a **Software Engineer (Back-End)** at [Tulip Tech Ltd.](https://tulip-tech.com/)
 - 🛠️ Skilled in **Nest.js**, **Node.js**, **React.js**, **TypeScript**, **AWS**, **CI/CD**, **MySQL**, **TypeORM**, **Prisma**, **MongoDB**,and **Mongoose**
 - 🌟 Enthusiastic about **microservices architecture**, **real-time systems**, and performance optimization
 - 📚 Always learning new technologies like **Kafka**, **Redis**, and **Socket.IO**
